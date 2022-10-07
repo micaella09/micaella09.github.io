@@ -72,7 +72,7 @@ body {
 
 /* //-- core typography and style -- */
 #hd h1 {
-    font-size: 48px;
+    font-size: 35px;
     text-transform: uppercase;
     letter-spacing: 3px;
 }
@@ -144,7 +144,7 @@ p.enlarge span {
 a#pdf {
     display: block;
     float: left;
-    background: #666;
+    background: rgb(255, 255, 255);
     color: white;
     padding: 6px 50px 6px 12px;
     margin-bottom: 6px;
