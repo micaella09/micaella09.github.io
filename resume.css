@@ -144,7 +144,7 @@ p.enlarge span {
 a#pdf {
     display: block;
     float: left;
-    background: rgb(255, 255, 255);
+    background: #666;
     color: white;
     padding: 6px 50px 6px 12px;
     margin-bottom: 6px;
